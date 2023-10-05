@@ -24,8 +24,8 @@ This project includes frontend and backend pieces that run locally on your compu
 
 Follow these steps to set up the app:
 
-- [ ] Create a forked copy of this project
-- [ ] Clone your own fork of the repository
+- [x ] Create a forked copy of this project
+- [x ] Clone your own fork of the repository
 - [ ] Download dependencies by executing `npm install`
 - [ ] Run the app by executing `npm start`
 

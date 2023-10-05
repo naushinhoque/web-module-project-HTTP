@@ -10,6 +10,8 @@ import FavoriteMovieList from './components/FavoriteMovieList';
 
 import axios from 'axios';
 
+import EditMovieForm from './components/EditMovieForm';
+
 const App = (props) => {
   const [movies, setMovies] = useState([]);
   const [favoriteMovies, setFavoriteMovies] = useState([]);
